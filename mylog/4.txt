@@ -1,0 +1,100 @@
+initialen-toten	4	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+0	3.5		-0.09375	-12
+kconfig	temp		mag / NS	toten
+0	3		-0.03125	-12
+initialen-toten	0	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+0	3.5		-0.15625	-16
+kconfig	temp		mag / NS	toten
+0	3		-0.09375	-8
+kconfig	temp		mag / NS	toten
+0	2.5		-0.15625	-16
+kconfig	temp		mag / NS	toten
+0	2		-0.21875	-16
+kconfig	temp		mag / NS	toten
+0	1.5		-0.25	-16
+kconfig	temp		mag / NS	toten
+0	1		-0.125	-16
+initialen-toten	-2.66667	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+1	3.5		0.03125	-2.66667
+kconfig	temp		mag / NS	toten
+1	3		0.0625	-2.66667
+kconfig	temp		mag / NS	toten
+1	2.5		0.09375	-6.66667
+kconfig	temp		mag / NS	toten
+1	2		-0.09375	-6.66667
+kconfig	temp		mag / NS	toten
+1	1.5		0.03125	-6.66667
+kconfig	temp		mag / NS	toten
+1	1		0	-10.6667
+initialen-toten	1.33333	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+0	3.5		0.0625	1.33333
+kconfig	temp		mag / NS	toten
+0	3		0.0625	-2.66667
+kconfig	temp		mag / NS	toten
+0	2.5		0.15625	-6.66667
+kconfig	temp		mag / NS	toten
+0	2		0.09375	1.33333
+kconfig	temp		mag / NS	toten
+0	1.5		0.0625	-10.6667
+kconfig	temp		mag / NS	toten
+0	1		0.1875	-10.6667
+initialen-toten	0	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+1	3.5		0.15625	-16
+kconfig	temp		mag / NS	toten
+1	3		0.125	-8
+kconfig	temp		mag / NS	toten
+1	2.5		0.21875	-8
+kconfig	temp		mag / NS	toten
+1	2		0.125	-16
+kconfig	temp		mag / NS	toten
+1	1.5		0.15625	-16
+kconfig	temp		mag / NS	toten
+1	1		0.15625	-16
+initialen-toten	6.66667	encrystal=	10	0	endisordercrystal=	2	2
+
+kconfig	temp		mag / NS	toten
+0	3.5		0.09375	-13.3333
+kconfig	temp		mag / NS	toten
+0	3		0.125	-13.3333
+kconfig	temp		mag / NS	toten
+0	2.5		0.03125	-13.3333
+initialen-toten	2.66667	encrystal=	10	0	endisordercrystal=	2	2
+
+initialen-toten	9.33333	encrystal=	14	0	endisordercrystal=	6	6
+
+kconfig	temp		mag / NS	toten
+0	3.5		0	-50.6667
+kconfig	temp		mag / NS	toten
+0	3		-0.0833333	-50.6667
+kconfig	temp		mag / NS	toten
+0	2.5		0.101852	-90.6667
+kconfig	temp		mag / NS	toten
+0	2		0.0740741	-98.6667
+kconfig	temp		mag / NS	toten
+0	1.5		0.194444	-110.667
+kconfig	temp		mag / NS	toten
+0	1		0.157407	-102.667
+initialen-toten	2.66667	encrystal=	14	0	endisordercrystal=	6	6
+
+kconfig	temp		mag / NS	toten
+1	3.5		0.0277778	-37.3333
+kconfig	temp		mag / NS	toten
+1	3		0.0833333	-61.3333
+kconfig	temp		mag / NS	toten
+1	2.5		0.0277778	-61.3333
+kconfig	temp		mag / NS	toten
+1	2		0.138889	-73.3333
+kconfig	temp		mag / NS	toten
+1	1.5		0.037037	-105.333
+kconfig	temp		mag / NS	toten
+1	1		0.0462963	-109.333

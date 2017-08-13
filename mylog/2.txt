@@ -1,0 +1,15 @@
+i	j	phi[i][j]
+
+i	j	phi[i][j]
+
+
+i	j	phi[i][j]
+
+
+i	j	phi[i][j]
+
+i	j	phi[i][j]
+
+i	j	phi[i][j]
+
+

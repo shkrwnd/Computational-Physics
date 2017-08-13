@@ -1,0 +1,15 @@
+i	j	occ[i][j]
+
+i	j	occ[i][j]
+
+
+i	j	occ[i][j]
+
+
+i	j	occ[i][j]
+
+i	j	occ[i][j]
+
+i	j	occ[i][j]
+
+
